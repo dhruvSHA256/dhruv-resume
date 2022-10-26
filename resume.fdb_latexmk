@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1666777857 "/home/dhruv/r/resume/resume.tex" "/home/dhruv/r/dhruv-resume/resume.pdf" "resume" 1666777858
-  "/home/dhruv/r/dhruv-resume/resume.aux" 1666777858 1325 17469879ee6857ee584b5a2af581089a "pdflatex"
-  "/home/dhruv/r/dhruv-resume/resume.out" 1666777858 594 9eb7d96a97784ff1aeffbbba9e6ca617 "pdflatex"
-  "/home/dhruv/r/resume/resume.tex" 1666777857 9433 364070e892fc38cfda1f2fb7b2d657a2 ""
+["pdflatex"] 1666777893 "/home/dhruv/r/resume/resume.tex" "/home/dhruv/r/dhruv-resume/resume.pdf" "resume" 1666777894
+  "/home/dhruv/r/dhruv-resume/resume.aux" 1666777894 1325 17469879ee6857ee584b5a2af581089a "pdflatex"
+  "/home/dhruv/r/dhruv-resume/resume.out" 1666777894 594 9eb7d96a97784ff1aeffbbba9e6ca617 "pdflatex"
+  "/home/dhruv/r/resume/resume.tex" 1666777892 9433 364070e892fc38cfda1f2fb7b2d657a2 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1650215467 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650215467 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/bitstrea/charter/bchb7t.tfm" 1650215467 2732 006d846b4d54f9b40899c7c3eecd771a ""
@@ -110,7 +110,7 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650215467 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1666679031 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1666679019 2927660 0df3dba849f9e1eb95f91868044078cf ""
-  "resume.tex" 1666777857 9433 364070e892fc38cfda1f2fb7b2d657a2 ""
+  "resume.tex" 1666777892 9433 364070e892fc38cfda1f2fb7b2d657a2 ""
   (generated)
   "/home/dhruv/r/dhruv-resume/resume.aux"
   "/home/dhruv/r/dhruv-resume/resume.log"

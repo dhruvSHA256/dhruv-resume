@@ -1,4 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/latex
+
+resume.aux
+resume.fdb_latexmk
+resume.fls
+resume.out
+
 # Edit at https://www.toptal.com/developers/gitignore?templates=latex
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
